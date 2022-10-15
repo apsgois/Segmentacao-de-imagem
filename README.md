@@ -14,5 +14,5 @@ Exemplos com:
    3.   Segmentação baseada em watershed 
 
 
-REFERêCNIAS:
+REFERÊNCIAS:
 Foi utilizado os videos do canal:https://www.youtube.com/watch?v=cpXrXDVRkYE,Segmentação de Imagens com Python de A a Z. 
